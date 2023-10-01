@@ -1,4 +1,5 @@
-﻿Console.Write("Введите целое число от 1 до 365: ");
+//высокий уровень, 7 задание
+Console.Write("Введите целое число от 1 до 365: ");
 int data = int.Parse(Console.ReadLine());
 
 int a = (data % 7);
